@@ -28,7 +28,7 @@ last_edit_time_format: "%b %e, %Y at %I:%M %p"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false
 
-color_scheme: dark
+color_scheme: light
 
 callouts:
   note:
