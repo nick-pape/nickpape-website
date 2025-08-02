@@ -4,17 +4,11 @@ theme: just-the-docs
 
 url: https://nickpape.com
 
-# Aux links for the upper right navigation
-aux_links:
-  "GitHub":
-    - "https://github.com/nick-pape"
-  "LinkedIn":
-    - "https://www.linkedin.com/in/nickpape-software"
-  "Email":
-    - "mailto:nick@nickpape.com"
+# Disable default aux links
+aux_links: null
 
-# Makes Aux links open in a new tab
-aux_links_new_tab: true
+# Use your custom HTML instead
+aux_links_custom: true
 
 search_enabled: false
 
