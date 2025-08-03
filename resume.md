@@ -5,9 +5,10 @@ permalink: /resume/
 nav_order: 10
 ---
 
-> {: .summary }
-> ### 📌 Executive Summary
-> I'm a seasoned software engineer with over a decade of experience shipping scalable tools and developer infrastructure at Microsoft, Amazon, and early-stage startups. I’ve owned projects ranging from monorepo build systems and cross-platform UI architectures to real-time scheduling platforms for over a million users. I care deeply about reliability, clarity, and impact—whether it's through open-source contributions, mentorship, or hands-on execution.
+### 📌 Executive Summary
+{: .summary .callout}
+
+I'm a seasoned software engineer with over a decade of experience shipping scalable tools and developer infrastructure at Microsoft, Amazon, and early-stage startups. I’ve owned projects ranging from monorepo build systems and cross-platform UI architectures to real-time scheduling platforms for over a million users. I care deeply about reliability, clarity, and impact—whether it's through open-source contributions, mentorship, or hands-on execution.
 
 ---
 
@@ -15,11 +16,11 @@ nav_order: 10
 
 > #### M.S. Artificial Intelligence  
 > *University of Texas at Austin* — *2021–2026 (Est.)*
-{: .bg-grey-lt-000 .p-3 .rounded-2 .mb-2 }
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 
 > #### B.S. Computer Science  
 > *University of Texas at Austin* — *2011–2014*
-{: .bg-grey-lt-000 .p-3 .rounded-2 .mb-2 }
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 
 ---
 
@@ -28,61 +29,55 @@ nav_order: 10
 ### Microsoft — *Senior Software Engineer*  
 *2022 – Present*  
 *Coming soon...*
-{: .bg-grey-lt-100 .p-3 .rounded-2 .mb-2 }
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 
 ### University of Texas — *Teaching Assistant (Part-Time)*  
 *2023 – 2024*
-{: .bg-grey-lt-100 .p-3 .rounded-2 .mb-2 }
-> {: .impact }
-> - Supported instruction for graduate-level AI and RL courses.
-> - Delivered tutorials and guidance on algorithms like A2C, PPO, and REINFORCE.
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
+{: .impact }
+- Supported instruction for graduate-level AI and RL courses.
+- Delivered tutorials and guidance on algorithms like A2C, PPO, and REINFORCE.
 
 ### Amazon — *Software Engineer II*  
 *2020 – 2022*
-{: .bg-grey-lt-100 .p-3 .rounded-2 .mb-2 }
-> {: .impact }
-> - Built shift scheduling tools for 1.2M hourly workers: clock-in/out, swap, and claim shifts.
-
-> {: .performance }
-> - Cut P75 load times from ~4.5s to <3s, saving 500+ worker-hours daily.
-
-> {: .leadership }
-> - Led major front-end rewrite: React/React Native architecture with GraphQL APIs.
-> - Mentored junior devs, owned UX refresh project through delivery.
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
+{: .impact }
+- Built shift scheduling tools for 1.2M hourly workers: clock-in/out, swap, and claim shifts.
+{: .performance }
+- Cut P75 load times from ~4.5s to <3s, saving 500+ worker-hours daily.
+{: .leadership }
+- Led major front-end rewrite: React/React Native architecture with GraphQL APIs.
+- Mentored junior devs, owned UX refresh project through delivery.
 
 ### AffiniPay — *Solutions Engineer II*  
 *2019 – 2020*
-{: .bg-grey-lt-100 .p-3 .rounded-2 .mb-2 }
-> {: .context }
-> - Delivered client-facing demos under rapid timelines, supporting sales pipeline.
-> - Integrated payments with QuickBooks, Xero, and Calendly.
-> - Built secure React + Node.js OAuth systems and bulk invoicing tools.
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
+{: .context }
+- Delivered client-facing demos under rapid timelines, supporting sales pipeline.
+- Integrated payments with QuickBooks, Xero, and Calendly.
+- Built secure React + Node.js OAuth systems and bulk invoicing tools.
 
 ### Microsoft — *Software Engineer II*  
 *2017 – 2019*
-{: .bg-grey-lt-100 .p-3 .rounded-2 .mb-2 }
-> {: .invention }
-> - Co-developed **Rush**, Microsoft's monorepo build tool.
-> - Earned patent for install optimization.
-
-> {: .impact }
-> - Delivered deterministic installs, CI caching, and build graph optimizations.
-
-> {: .leadership }
-> - Maintained Rush open source.
-> - Created XStitch for auto-dependency syncing across repos.
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
+{: .invention }
+- Co-developed **Rush**, Microsoft's monorepo build tool.
+- Earned patent for install optimization.
+{: .impact }
+- Delivered deterministic installs, CI caching, and build graph optimizations.
+{: .leadership }
+- Maintained Rush open source.
+- Created XStitch for auto-dependency syncing across repos.
 
 ### Microsoft — *Software Engineer I*  
 *2015 – 2017*
-{: .bg-grey-lt-100 .p-3 .rounded-2 .mb-2 }
-> {: .impact }
-> - Contributed to the first release of the **SharePoint Framework (SPFx)**.
-
-> {: .invention }
-> - Built selective loading systems and Webpack tooling for extensibility.
-
-> {: .context }
-> - Delivered real-world components to validate the platform.
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
+{: .impact }
+- Contributed to the first release of the **SharePoint Framework (SPFx)**.
+{: .invention }
+- Built selective loading systems and Webpack tooling for extensibility.
+{: .context }
+- Delivered real-world components to validate the platform.
 
 ---
 
@@ -92,12 +87,11 @@ nav_order: 10
 > - **QUALCOMM** – San Diego *(2012)*  
 > - **WebCore Technologies** – Austin *(Spring 2012)*  
 > - **AffiniPay** – Austin *(2010 & 2011)*
-{: .bg-grey-lt-000 .p-3 .rounded-2 .mb-2 }
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 
 ---
 
 ## 🏅 Notables
 
 > - US Patent 10095499: *Optimization for a Multi-Project Package Manager*  
-> - **Eagle Scout**, Boy Scouts of America *(2011)*
-{: .bg-grey-lt-000 .p-3 .rounded-2 .mb-2 }
+{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
