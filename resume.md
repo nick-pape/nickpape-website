@@ -14,7 +14,7 @@ I’m a seasoned software engineer with over a decade of experience shipping sca
 
 ### 🎓 Education
 
-> M.S. Artificial Intelligence *(2021–2025)*  
+> **M.S. Artificial Intelligence** *(2021–2025)*  
 >
 > **University of Texas at Austin** 
 {: .summary-title }
@@ -79,20 +79,12 @@ I’m a seasoned software engineer with over a decade of experience shipping sca
 
 ### 🧑‍💻 Internships
 
-> Microsoft *(2014)*  
-{: .summary-title }
-
-> Microsoft *(2013)*
-{: .summary-title }
-
-> QUALCOMM *(2012)*
-{: .summary-title }
-
-> WebCore Technologies *(Spring 2012)*
-{: .summary-title }
-
-> AffiniPay *(2010 - 2011)*
-{: .summary-title }
+> * Microsoft *(2014)*
+> * Microsoft *(2013)*
+> * QUALCOMM *(2012)*
+> * WebCore Technologies *(Spring 2012)*
+> * AffiniPay *(2010 - 2011)*
+{: .summary }
 
 ---
 
