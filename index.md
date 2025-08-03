@@ -1,35 +1,59 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## 🧠 About
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+> _Senior Software Engineer, Roboticist, AI Practitioner, Relentless Optimizer._
 
-More specifically, the created site:
+I'm a senior engineer at Microsoft and a Master's student in Artificial Intelligence. Professionally, I’ve led front-end and developer tooling efforts for large-scale platforms at Microsoft, Amazon, and early-stage startups. My focus has often been on making complex systems usable—whether that's AI infrastructure, internal dev tools, or customer-facing platforms.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Outside of work, I’m building up deep hands-on experience in AI through my Master’s program and side projects—especially around reinforcement learning, multimodal models, and MCP-based developer workflows. My recent focus is on **robotics, AI system integration, and the messy intersection of hardware and intelligence**.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+This site is where I document the systems I build: robots, training pipelines, control infrastructure, and the occasional teardown or build log. It’s technical, iterative, sometimes chaotic—and always hands-on.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+---
 
-To get started with creating a site, simply:
+## 🔧 Current Projects
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **🦾 Modular Cobot Platform**  
+  A 3D-printed, quasi-direct-drive collaborative robot arm using TMC5160 SPI drivers, home-built cycloidal gears, and custom PCBs.  
+  _Goal: Payload-class modular arms and mobile bases with swappable connectors, smart drivers, and homegrown control logic._
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- **⚙️ MLOps & Training Infrastructure**  
+  Local and cloud job orchestration using W&B agents, AWS spot instances, Terraform IaC, Docker image optimization, and artifact management.  
+  _Goal: Reproducible, efficient RL and multimodal training across desktop and cloud GPUs._
 
-----
+- **🧩 MCP Server Workflows & Toolchains**  
+  Custom-built Model Context Protocol (MCP) server in TypeScript for orchestrating tools with GitHub Copilot.  
+  _Goal: Chain structured tool responses, extend dev workflows, and experiment with intelligent agent interfaces—all without depending on Python MCPs like `mcpo`._
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+---
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## 🧩 Interests
+
+- **Reinforcement Learning** – A2C, PPO, PER, curriculum learning
+- **MCP Servers & Toolchain Orchestration** – Structured agent workflows with LLMs and GitHub Copilot
+- **LLM Fine-Tuning & Multimodal AI** – Extending open models for real-world applications
+- **DIY Robotics** – Cycloidal gears, custom arms, modular mobility platforms
+- **Embedded Electronics** – Stepper motor drivers, SPI/I2C control, sensor interfacing
+- **3D Printing** – Rapid prototyping, actuator design, printing practical everyday objects 
+- **Web Dev Tooling** – TypeScript, pnpm, Rush, webpack, and the dark art of taming dependency graphs and lockfiles
+- **MLOps** – Infrastructure as code, launch agents, reproducibility at scale
+- **Parenting, Education & Suburban Farming** – Teaching autonomy, feedback loops, and iteration through hands-on living
+
+---
+
+## 📚 Writings
+
+What you'll find here:
+- Build logs and hardware schematics
+- Model training experiments (and mistakes)
+- Infrastructure notes and orchestrator configs
+- Emerging thoughts on education, tools, and engineering culture
+
+---
+
+_This site is a living project. If something’s half-baked, that’s probably intentional._
