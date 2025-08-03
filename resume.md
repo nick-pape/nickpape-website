@@ -17,12 +17,12 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 >  M.S. Artificial Intelligence  
 >
 > *University of Texas at Austin* — *2021–2025*
-{: .summary }
+{: .summary-title }
 
 >  B.S. Computer Science  
 >
 > *University of Texas at Austin* — *2011–2014*
-{: .summary }
+{: .summary-title }
 
 ---
 
