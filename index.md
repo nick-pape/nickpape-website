@@ -28,7 +28,7 @@ This site is where I document the systems I build: robots, training pipelines, c
 
 - **🧩 MCP Server Workflows & Toolchains**  
   Custom-built Model Context Protocol (MCP) server in TypeScript for orchestrating tools with GitHub Copilot.  
-  _Goal: Chain structured tool responses, extend dev workflows, and experiment with intelligent agent interfaces—all without depending on Python MCPs like `mcpo`._
+  _Goal: Chain structured tool responses, extend dev workflows, and experiment with intelligent agent interfaces._
 
 ---
 
