@@ -14,14 +14,14 @@ I’m a seasoned software engineer with over a decade of experience shipping sca
 
 ### 🎓 Education
 
-> **M.S. Artificial Intelligence** *(2021–2025)*  
+> **M.S. Artificial Intelligence**, *2021–2025*  
 >
 > *University of Texas at Austin*
 {: .summary-title }
 
-> B.S. Computer Science *(2011–2014)*
+> **University of Texas at Austin**, *2011–2014*
 >
-> *University of Texas at Austin*
+> B.S. Computer Science
 {: .summary-title }
 
 ---
