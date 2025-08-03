@@ -7,22 +7,22 @@ nav_order: 10
 
 ## 📌 Summary
 
-{: .summary }
 I'm a seasoned software engineer with over a decade of experience shipping scalable tools and developer infrastructure at Microsoft, Amazon, and early-stage startups. I’ve owned projects ranging from monorepo build systems and cross-platform UI architectures to real-time scheduling platforms for over a million users. I care deeply about reliability, clarity, and impact—whether it's through open-source contributions, mentorship, or hands-on execution.
+{: .summary }
 
 ---
 
 ## 🎓 Education
 
-{: .summary }
 >  M.S. Artificial Intelligence  
 >
 > *University of Texas at Austin* — *2021–2025*
-
 {: .summary }
+
 >  B.S. Computer Science  
 >
 > *University of Texas at Austin* — *2011–2014*
+{: .summary }
 
 ---
 
