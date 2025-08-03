@@ -44,7 +44,9 @@ callouts:
     title: Highlight
     color: purple
   summary:
-    color: blue
+    color: grey-dk
+
+
   impact:
     title: Impact
     color: green
