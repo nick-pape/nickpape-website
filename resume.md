@@ -14,9 +14,9 @@ I’m a seasoned software engineer with over a decade of experience shipping sca
 
 ### 🎓 Education
 
-> **M.S. Artificial Intelligence**, *2021–2025*  
+> **University of Texas at Austin**, *2021–2025*  
 >
-> *University of Texas at Austin*
+> **M.S. Artificial Intelligence**
 {: .summary-title }
 
 > **University of Texas at Austin**, *2011–2014*
