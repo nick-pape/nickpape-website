@@ -43,3 +43,23 @@ callouts:
   highlight:
     title: Highlight
     color: purple
+  summary:
+    color: blue
+  impact:
+    title: Impact
+    color: green
+  leadership:
+    title: Leadership & Ownership
+    color: blue
+  performance:
+    title: Performance Win
+    color: yellow
+  invention:
+    title: Invention
+    color: purple
+  upcoming:
+    title: Coming Soon
+    color: grey-lt
+  context:
+    title: Context
+    color: grey-dk
