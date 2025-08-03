@@ -81,16 +81,31 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 
 ## 🧑‍💻 Internships
 
-> - **Microsoft** – Seattle *(2013 & 2014)*  
-> - **QUALCOMM** – San Diego *(2012)*  
-> - **WebCore Technologies** – Austin *(Spring 2012)*  
-> - **AffiniPay** – Austin *(2010 & 2011)*
-{: .summary }
+> Microsoft
+> 
+> Seattle *(2013 & 2014)*  
+{: .summary-title }
+
+> QUALCOMM 
+> 
+> San Diego *(2012)*  
+{: .summary-title }
+
+> WebCore Technologies
+>
+> Austin *(Spring 2012)*  
+{: .summary-title }
+
+> AffiniPay
+>
+> Austin *(2010 & 2011)*
+{: .summary-title }
 
 ---
 
 ## 🏅 Notables
 
 > US Patent 10095499
+>
 > *Optimization for a Multi-Project Package Manager*  
 {: .summary-title }
