@@ -6,6 +6,7 @@ nav_order: 10
 ---
 
 ## 📌 Summary
+
 {: .summary }
 I'm a seasoned software engineer with over a decade of experience shipping scalable tools and developer infrastructure at Microsoft, Amazon, and early-stage startups. I’ve owned projects ranging from monorepo build systems and cross-platform UI architectures to real-time scheduling platforms for over a million users. I care deeply about reliability, clarity, and impact—whether it's through open-source contributions, mentorship, or hands-on execution.
 
@@ -13,12 +14,12 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 
 ## 🎓 Education
 
-{: .summary}
+{: .summary }
 >  M.S. Artificial Intelligence  
 >
 > *University of Texas at Austin* — *2021–2025*
 
-{: .summary}
+{: .summary }
 >  B.S. Computer Science  
 >
 > *University of Texas at Austin* — *2011–2014*
@@ -30,18 +31,15 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 ### Microsoft — *Senior Software Engineer*  
 *2022 – Present*  
 *Coming soon...*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 
 ### University of Texas — *Teaching Assistant (Part-Time)*  
 *2023 – 2024*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 {: .impact }
 - Supported instruction for graduate-level AI and RL courses.
 - Delivered tutorials and guidance on algorithms like A2C, PPO, and REINFORCE.
 
 ### Amazon — *Software Engineer II*  
 *2020 – 2022*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 {: .impact }
 - Built shift scheduling tools for 1.2M hourly workers: clock-in/out, swap, and claim shifts.
 {: .performance }
@@ -52,7 +50,6 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 
 ### AffiniPay — *Solutions Engineer II*  
 *2019 – 2020*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 {: .context }
 - Delivered client-facing demos under rapid timelines, supporting sales pipeline.
 - Integrated payments with QuickBooks, Xero, and Calendly.
@@ -60,7 +57,6 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 
 ### Microsoft — *Software Engineer II*  
 *2017 – 2019*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 {: .invention }
 - Co-developed **Rush**, Microsoft's monorepo build tool.
 - Earned patent for install optimization.
@@ -72,7 +68,6 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 
 ### Microsoft — *Software Engineer I*  
 *2015 – 2017*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 {: .impact }
 - Contributed to the first release of the **SharePoint Framework (SPFx)**.
 {: .invention }
@@ -88,11 +83,9 @@ I'm a seasoned software engineer with over a decade of experience shipping scala
 > - **QUALCOMM** – San Diego *(2012)*  
 > - **WebCore Technologies** – Austin *(Spring 2012)*  
 > - **AffiniPay** – Austin *(2010 & 2011)*
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
 
 ---
 
 ## 🏅 Notables
 
 > - US Patent 10095499: *Optimization for a Multi-Project Package Manager*  
-{: .bg-grey-dk-000 .p-3 .rounded-2 .mb-2 }
