@@ -44,6 +44,5 @@ callouts:
     title: Highlight
     color: purple
   summary:
-    title: Summary
     color: grey-dk
 
