@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+<img src="https://github.com/user-attachments/assets/eb863073-a1c0-429f-8d9a-08ce248adb98" alt="Nick Pape Profile Picture" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 150px; height: 150px; border-radius: 50%; border: 1px solid #d1d5da; object-fit: cover;">
+
 ## 🧠 About
 
 > _Senior Software Engineer, Roboticist, AI Practitioner, Relentless Optimizer._
